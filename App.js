@@ -115,7 +115,7 @@ const App = () => {
             // });
             // const msg = 'BR1231PP';
             // RNBluetoothPrinter.printQRCode(msg);
-          }}
+          }} 
         />
 
         <View style={{marginVertical: 10}} />
